@@ -6,7 +6,7 @@
 
 This was a bootcamp project, and I was given a set of instructions to follow. I was also given a set of starter code, which I used as a base for my project.
 
-This README file is a copy of the instructions I was given. I will only be adding my own notes to the file.
+This `README` file is a copy of the instructions I was given. I will only be adding my own notes to the file.
 
 In this project, I used Node, Express, MongoDB and Mongoose in order to create an e-commerce backend app. This app has 2 types of users: admins and customers.
 
